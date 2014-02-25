@@ -5,7 +5,7 @@ Sample for using nightwatch with BrowserStack Automate.
 
 ###Install nightwatch.js
 *Starting and pre-requite: [nightwatch]*
-- `npm install nightwatch`
+- `npm install -g nightwatch`
 
 ###Configuring the json
  - Open `settings.json`
